@@ -26,6 +26,8 @@ class Player:
 
     def go_to_start(self):
         self.player_user.goto(STARTING_POSITION)
+        
+        # test what to do 
 
 
 
